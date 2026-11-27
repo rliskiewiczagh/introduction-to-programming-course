@@ -1,2 +1,0 @@
-# Add pandas to the existing course environment only if it is missing.
-pandas>=2.2,<4
